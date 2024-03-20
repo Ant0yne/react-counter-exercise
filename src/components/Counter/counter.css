@@ -1,0 +1,49 @@
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 69vh;
+}
+
+#counter-buttons {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+#counter-number {
+	background-color: var(--purple);
+	border-radius: 10px;
+	width: 140px;
+}
+
+.counter-symbole {
+	width: 70px;
+}
+
+#counter-buttons p {
+	font-size: 10rem;
+	color: var(--white);
+	text-align: center;
+}
+
+#counter-buttons button {
+	font-size: 10rem;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+#counter-reset {
+	background-color: var(--purple);
+	border-radius: 10px;
+	font-size: 2rem;
+	margin-top: 20px;
+	padding: 10px 20px;
+	color: var(--white);
+}
