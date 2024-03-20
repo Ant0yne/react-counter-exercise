@@ -1,8 +1,11 @@
-# React + Vite
+# React exercise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Counter
 
-Currently, two official plugins are available:
+A simple exercise to manipulate state and props with React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Website](https://react-my-bank-exercise.netlify.app/)
+
+##To do
+
+- the responsive for other than vert mobile
