@@ -1,11 +1,11 @@
 # React exercise
 
-## Counter
+## Counter
 
 A simple exercise to manipulate state and props with React
 
 [Website](https://react-counter-exercise.netlify.app/)
 
-##To do
+## To do
 
 - the responsive for other than vert mobile
