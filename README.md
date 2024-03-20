@@ -4,7 +4,7 @@
 
 A simple exercise to manipulate state and props with React
 
-[Website](https://react-my-bank-exercise.netlify.app/)
+[Website](https://react-counter-exercise.netlify.app/)
 
 ##To do
 
