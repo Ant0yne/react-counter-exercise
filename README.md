@@ -8,4 +8,4 @@ A simple exercise to manipulate state and props with React
 
 ## To do
 
-- the responsive for other than vert mobile
+-
